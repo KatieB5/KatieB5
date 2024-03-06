@@ -13,7 +13,7 @@ I'm Katie - it's great to meet you, thanks for stopping by!
 
 ### I'm currently...
 - ⚡ Switching careers, from independent medical education and research into software engineering 
--  🌱 Learning fullstack software engineering on the Northcoders bootcamp in my home city
+-  🌱 Learning fullstack software engineering on the [Northcoders bootcamp](https://northcoders.com/our-courses/coding-bootcamp) in my home city of Manchester
 -  🌱 Learning French via Duo Lingo (for 5 minutes per day...)
 -  🏃💪 Trying to increase my run distance and gym PBs
 -  👀 Looking for my first graduate junior engineering role
