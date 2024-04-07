@@ -7,7 +7,7 @@ I'm Katie - it's great to meet you, thanks for stopping by!
 - 🎓 **Education:** B.Sc. Hons degree in Biomedical Science from the University of Manchester, UK
 - 💼 **Employment:** part-time (weekend) student admin support officer whilst on the Northcoders bootcamp (see below)
 - 😄 **Pronouns:** she/her
-- 🌟 **Fave things:** running, gym, skiing, hiking, reading, escape rooms, boardgames, coffee, baked goods and travelling
+- 🌟 **Fave things:** running, gym, skiing, hiking, reading, escape rooms, boardgames, coffee, baked goods and travelling and tech meetups
 - 💭 **Fun fact:** I lived in Basel, Switzerland for 1.5 years in 2016 and 2017
 - 📣 **Languages:** English (native), German (VERY basic, I can order a glass of wine and ask how many guinea pigs you have)
 
