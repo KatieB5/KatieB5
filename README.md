@@ -13,7 +13,6 @@ I'm Katie - it's great to meet you, thanks for stopping by!
 
 ### I'm currently...
 -  🌱 Learning python and django
--  🌱 Learning French via Duo Lingo (for 5 minutes per day...)
 -  🏃💪 Trying to increase my run distance and gym PBs
 -  👀👀 Looking for my next challenge 👀👀
 
