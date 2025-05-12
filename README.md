@@ -3,7 +3,7 @@ I'm Katie - it's great to meet you, thanks for stopping by!
 
 ### About me:
 
-- 📍 **Location:** Paris, France
+- 📍 **Location:** Manchester, United Kingdom
 - 🎓 **Education:** Biomedical Sciences B.Sc. Hons from the University of Manchester, UK
 - 💼 **Employment/career:** >10 years in international med comms, medical education and research; currently working for the Bennett Institute at the University of Oxford :rocket:
 - 😄 **Pronouns:** she/her/hers
