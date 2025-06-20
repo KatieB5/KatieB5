@@ -1,18 +1,7 @@
 ## Hi there 👋
-I'm Katie - it's great to meet you, thanks for stopping by!
-
-### About me:
-
-- 📍 **Location:** Manchester, United Kingdom
-- 🎓 **Education:** Biomedical Sciences B.Sc. Hons from the University of Manchester, UK
-- 💼 **Employment/career:** >10 years in international med comms, medical education and research; currently working for the Bennett Institute at the University of Oxford :rocket:
-- 😄 **Pronouns:** she/her/hers
-- 🌟 **Favourite things:** running, gym, skiing, hiking, reading, escape rooms, boardgames, coffee, baked goods, travelling and tech meetups
-- 💭 **Some fun facts:** I lived in Basel, Switzerland for 1.5 years, and I am a published research author - you can view my work [here](https://pubmed.ncbi.nlm.nih.gov/?term=katie+bickford&sort=date&sort_order=desc) and [here](https://ueg.eu/library/impact-of-an-online-continuing-medical-education-curriculum-on-the-knowledge-competence-and-confidence-of-clinicians-who-care-for-patients-with-eosinophilic-oesophagitis/88454052-743b-11ee-bd29-0242ac140004)
-- 📣 **Languages:** English (native), German (v.basic, I can order a glass of wine and ask how many guinea pigs you have)
 
 ### I'm currently...
--  🌱 Learning python and django
+-  🌱 Learning python, django, typescript, react, french and chess
 -  🏃💪 Trying to increase my run distance and gym PBs
 -  🐍🐍 Coordinating comms for PyCon UK 2025
 
