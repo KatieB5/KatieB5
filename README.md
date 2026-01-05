@@ -2,8 +2,10 @@
 I'm Katie. Nice to meet you, thanks for stopping by! 
 
 ### I'm currently...
--  🌱 Learning python, django, typescript, react, French and chess
+-  🌱 Learning python, django, typescript, react, French, German and chess
 -  🏃💪 Trying to increase my run distance and gym PBs
+### I was...
+-  💊🩻 A Principal Medical Writer in international medical communications and medical education before I changed careers
 -  🐍🐍 Comms Lead for PyCon UK 2025
 
 ### Tools, frameworks and languages I've worked with so far:
